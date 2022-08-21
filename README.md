@@ -3,6 +3,7 @@
 This is an open-source image attribute dataset called aesthetic mixed dataset with attributes(AMD-A), which we completed in the [Victory team of Besti](https://www.victory-lab.net/).
 
 In order to construct a dataset with a reasonable distribution both in image aesthetics quality assessment and image aesthetic attributes assessment, we rebuild a dataset named Aesthetic mixed dataset with attributes(AMD-A) cincluding 16924 images. According to different tasks, AMD-A is divided into two sets. One set(11166 images) is applied to aesthetic overall score regression, another set(16924 images) is applied to aesthetic attribute score classification and regression.
+
 As for the attribute regression, we collect images from EVA [1], AADB [2], PCCD [3], PADB, and HADB. PADB and HADB are self-built datasets. Each image has three attribute labels and one overall label for assessment. The three attributes include light, color and composition. To increase the training samples of the aesthetic regression, we collected 5758 images with only overall scores from other datasets. There are  from DPCallenge.com, SCUI-FBP5500 [4], Photo.net and SPAQ [5]. Data labels are continuous and each one has a score range of 0-1. 
 
 [1] Chen Kang, Giuseppe Valenzise, and Frédéric Dufaux. 2020. EVA: An Explainable Visual Aesthetics Dataset. In Joint Workshop on Aesthetic and Technical Quality Assessment of Multimedia and Media Analytics for Societal Trends. 5–13.
