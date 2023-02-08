@@ -20,6 +20,5 @@ As for the attribute regression, we collect images from EVA [1], AADB [2], PCCD 
   
 ### Our Paper  
   
-Xin Jin, Xinning Li, Hao Lou, Chenyu Fan, Qiang Deng, Chaoen Xiao, Shuai Cui, Amit Kumar Singh. 
-Aesthetic Attribute Assessment of Images Numerically on Mixed Multi-attribute Datasets. ACM Transactions on Multimedia Computing Communications and Applications (TOMM) **[arXiv](https://arxiv.org/abs/2207.01806)**(2207.01806)
+Xin Jin, Xinning Li, Hao Lou, Chenyu Fan, Qiang Deng, Chaoen Xiao, Shuai Cui, and Amit Kumar Singh. 2023. Aesthetic Attribute Assessment of Images Numerically on Mixed Multi-attribute Datasets. ACM Trans. Multimedia Comput. Commun. Appl. Just Accepted (February 2023). https://doi.org/10.1145/3547144
 
